@@ -1,12 +1,13 @@
-# Innovation_template_repository
-Innovation template repository
+# SCI Open Ontology
+
+The SCI Open Ontology project aims to provide a unified representation of SCI and its application.
 
 ## Scope
 
-[Add here]
+The main aim of this project is to help practitioners define the software boundary of the SCI application in a unified way. The project would consist of several milestones (as listed in scope below) and the first milestone would be to create the base ontology and constructs for an SCI application.
 
 ## Appointments 
-- Chair/Project lead - Name (Company)
+- Chair/Project lead - Navveen Balani (Accenture)
 
 ## Other Projects
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
@@ -15,8 +16,8 @@ Innovation template repository
 ## Resources
 
 * [Meeting Schedule - tbc]() (Members Only)
-* [Shared Google Drive](add here) (GSF Members Only)
-* [Slack Channel](add here) (GSF Members Only)
+* [Shared Google Drive](https://drive.google.com/drive/folders/1kdJQTi_L7-LmexAGPsFM58mRJOaiZD3l) (GSF Members Only)
+* [Slack Channel](https://greensoftwarefdn.slack.com/archives/C02T3NU896X) (GSF Members Only)
 
 ## Copyright
 Innovation WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
