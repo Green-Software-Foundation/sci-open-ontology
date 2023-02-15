@@ -46,4 +46,4 @@ CDLA-Permissive-1.0
 5. See [The Way we Work](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md) for futher details.
 
 ## Help
-helpdesk@greensoftware.io
+Raise a [new Issue](https://github.com/Green-Software-Foundation/sci-open-ontology/issues/new) if your query is related to this project.
