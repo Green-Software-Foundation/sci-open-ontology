@@ -4,7 +4,20 @@ The SCI Open Ontology project aims to provide a unified representation of SCI an
 
 ## Scope
 
-The main aim of this project is to help practitioners define the software boundary of the SCI application in a unified way. The project would consist of several milestones (as listed in scope below) and the first milestone would be to create the base ontology and constructs for an SCI application.
+The main aim of this project is to help practitioners define the software boundary of the SCI application in a unified way. The first milestone would be to create the base ontology and constructs for an SCI application.
+
+## Definitions
+- SCI Open Ontology will provide a common terminology to define the software boundary
+of the SCI application 
+- SCI Open Ontology provides base constructs for SCI application, which can be extended based
+on application requirements
+- Based on the software boundary, the SCI Score would be calculated. SCI Open Ontology will leverage CarbonQL API in future.(current code base uses approximate values for calculations)
+- In a future iteration, using this SCI model, you can compare two models and what caused changes in SCI scores across releases.
+
+# Representation of SCI Ontology using base constructs
+
+<img width="949" alt="SCI-Open-Ontology" src="https://user-images.githubusercontent.com/88837066/235903116-12f7fef5-4185-4615-b379-d8760dbd368c.png">
+
 
 ## Appointments 
 - Chair/Project lead - Navveen Balani (Accenture)
