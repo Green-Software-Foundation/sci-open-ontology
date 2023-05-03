@@ -1,0 +1,4 @@
+graphvix==0.20.1
+contextvars==2.4
+typing==3.10.0.0
+uuid==1.30
