@@ -1,6 +1,6 @@
-***[!important!] Archived Project***:
+> [!IMPORTANT]
+Archived Project:
 *This project is archived and is no longer being run inside the Green Software Foundation. Releases are **NOT** maintained or improved. This project cannot be reactivated.*
-
 
 This project has been merged into the Green Software Foundation project: Impact Framework. For more information, visit the [Impact Framework repositiory](https://github.com/Green-Software-Foundation/if) . 
 
